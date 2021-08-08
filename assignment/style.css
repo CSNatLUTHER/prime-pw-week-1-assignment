@@ -31,6 +31,7 @@ h1{
 p{
     color: tomato;
     font-size: large;
+    font-style: italic;
 }
 
 /* Put a border around your image */
